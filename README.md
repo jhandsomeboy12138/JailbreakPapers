@@ -104,6 +104,10 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *SoReLM Workshop 2023* — *Sicheng Zhu, Ruiyi Zhang, Bang An, Gang Wu, Joe Barrow, Zichao Wang, Furong Huang, Ani Nenkova, Tong Sun*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2310.15140)
 
+- **Obscure But Effective: Jailbreaking LLMs via Obscure Characters** 
+  *ICLR 2026* — *Published paper; exploits rare Unicode/classical characters to bypass safety filters*
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.22983)
+  
 ---
 
 ## 3. Prompt-Level / Black-Box Attacks
@@ -306,6 +310,10 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *IEEE S&P 2024* — *Yuchen Yang, Bo Hui, Haolin Yuan, Neil Gong, Yinzhi Cao*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2305.12082)
 
+- **Jailbreaks on Vision Language Models via Multimodal Reasoning** 
+  *arXiv 2026* — *Exploits CoT prompting + ReAct-driven adaptive noising to bypass VLM safety filters*
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2601.22398)
+
 ---
 
 ## 6. Agent & System-Level Attacks
@@ -474,6 +482,10 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *arXiv 2024* — *Zhangchen Xu et al.*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2404.03027)
 
+- **MultiBreak: A Scalable and Diverse Multi-Turn Jailbreak Benchmark for Stress-Testing LLM Safety** 
+  *ICLR 2026* — *Active learning pipeline for expanding high-quality multi-turn adversarial prompts*
+  [![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/pdf/49a02c4f68a8ab6fa3f6dca3f5f415dd8053a8fc.pdf)
+  
 ---
 
 ## 10. Analysis & Understanding
@@ -497,6 +509,18 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
 - **The Jailbreak Cookbook: A Comprehensive Encyclopedia of Jailbreak Techniques**
   *General Analysis 2025* — *Structured encyclopedia with code implementations and benchmarks*
   [![Paper](https://img.shields.io/badge/Paper-Blog-red)](https://generalanalysis.com/blog/jailbreak_cookbook)
+
+- **Internal Safety Collapse in Frontier Large Language Models (ISC)**
+  *arXiv 2026* — *Yutao Wu, Xiao Liu, Yifeng Gao, Xiang Zheng, Hanxun Huang, Yige Li, Cong Wang, Bo Li, Xingjun Ma, Yu-Gang Jiang*
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2603.23509) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://wuyoscar.github.io/ISC-Bench/)
+
+- **Do Language Models Know When They'll Refuse? Probing Introspective Awareness of Safety Boundaries**
+  *arXiv 2026* — *Tanay Gondil; evaluates Claude Sonnet 4/4.5, GPT-5.2, Llama 405B with signal detection theory*
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2604.00228)
+
+- **Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs** ⭐ New 2026
+  *arXiv 2026* — *Past-tense framing collapses safety to 15.6%; tests GPT-5.1, Gemini 3 Pro, Claude 4.5 Opus*
+  [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2512.24556)
 
 ---
 
