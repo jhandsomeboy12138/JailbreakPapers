@@ -48,7 +48,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *TechRxiv 2026* — *160+ papers systematization across security, ML, and NLP venues*
   [![Paper](https://img.shields.io/badge/Paper-TechRxiv-red)](https://www.techrxiv.org/users/1011181/articles/1373070)
 
-- **Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defenses** ⭐ New 2026
+- **Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defenses** 
   *arXiv 2026* — *Three-dimensional framework covering attacks, defenses, and evaluation for both LLMs and VLMs*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2601.03594)
 
@@ -160,7 +160,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *NeurIPS 2024* — *DRL-guided search outperforms genetic methods on hard queries*
   [![Paper](https://img.shields.io/badge/Paper-NeurIPS-red)](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f1486343c2c942a617e4f5bb0cc64c8-Paper-Conference.pdf)
 
-- **Mastermind: Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models** ⭐ New 2026
+- **Mastermind: Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models** 
   *arXiv 2026* — *87% avg ASR across 15 LLMs incl. GPT-5; planner-executor with knowledge accumulation*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2601.05445)
 
@@ -318,7 +318,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *AISec 2023* — *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, Mario Fritz*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2302.12173)
 
-- **iMIST: Jailbreaking LLMs through Iterative Tool-Disguised Attacks via Reinforcement Learning** ⭐ New 2026
+- **iMIST: Jailbreaking LLMs through Iterative Tool-Disguised Attacks via Reinforcement Learning** 
   *arXiv 2026* — *Zhaoqi Wang, Zijian Zhang, Daqing He, Pengtao Kou, Xin Li, Jiamou Liu, Jincheng An, Yong Liu*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2601.05466)
 
@@ -384,7 +384,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *ICLR 2024* — *Yuhui Li, Fangyun Wei, Jinjing Zhao, Chao Zhang, Hongyang Zhang*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2309.07124)
 
-- **SafeProbing: Defending Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing** ⭐ New 2026
+- **SafeProbing: Defending Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing** 
   *arXiv 2026* — *Surfaces latent safety signals during decoding for real-time jailbreak detection*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2601.10543)
 
@@ -416,7 +416,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *arXiv 2024* — *Andy Zou et al.*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2406.04313)
 
-- **Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations** ⭐ New 2026
+- **Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations** 
   *arXiv 2026* — *Layer-wise analysis across GPT-J, LLaMA, Mistral, Mamba; blocks 78% of jailbreaks at inference time*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.11495)
 
@@ -486,7 +486,7 @@ A curated list of must-read papers on **jailbreak attacks**, **defenses**, and *
   *NeurIPS 2023* — *Multiple authors*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2306.15447)
 
-- **How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks** ⭐ New 2026
+- **How Few-shot Demonstrations Affect Prompt-based Defenses Against LLM Jailbreak Attacks** 
   *arXiv 2026* — *Systematic study of few-shot defense effectiveness across attack methods*
   [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2602.04294)
 
